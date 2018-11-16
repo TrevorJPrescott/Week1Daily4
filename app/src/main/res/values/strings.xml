@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Daily4 - Intent ToKill()</string>
+    <string name="ToInput">Start Data Entry Activity</string>
+    <string name="Calculate">Start Data Entry Activity For Result</string>
+    <string name="ToDisplay">Back</string>
+</resources>
